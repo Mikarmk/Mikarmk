@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1jNHBydDhwNGp5ZXNrM3gwdzUyaXB2Zzd2YWRwNWl1d24xM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10bxTLrpJNS0PC/giphy.gif" width="500"/>
 
   <div id="badges">
-    <a href="your-behance-URL">
+    <a href="https://www.behance.net/muratkarimov">
       <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
     </a>
-    <a href="your-figma-URL">
+    <a href="https://www.figma.com/@mik7">
       <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
     </a>
-    <a href="your-dribbble-URL">
+    <a href="https://dribbble.com/Mikarmk">
       <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
     </a>
   </div>
