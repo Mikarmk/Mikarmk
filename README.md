@@ -1,5 +1,9 @@
 <div id="header" align="center">
- <h1>Всем привет)))</h1>
+ <h1>
+  Данный текст написан на телевизоре!
+ </h1>
+
+ <h3>И коммит тоже сделан на телевизоре)</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1jNHBydDhwNGp5ZXNrM3gwdzUyaXB2Zzd2YWRwNWl1d24xM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10bxTLrpJNS0PC/giphy.gif" width="500" style="border-radius: 15px;"/>
 
   <div id="badges">
