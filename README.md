@@ -1,4 +1,9 @@
 <div id="header" align="center">
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&pause=1000&color=00F70A&center=true&vCenter=true&random=false&width=435&lines=Hello+user)+I'm+Mikar;Good+luck)" alt="Typing SVG" /></a>
+</div>
+  
   <div id="badges">
     <a href="https://www.behance.net/muratkarimov">
       <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
