@@ -5,7 +5,7 @@
 </div>
 
 
-<h1> С новым годом! </h1>
+<h1> Ура! </h1>
   
   <div id="badges">
     <a href="https://www.behance.net/muratkarimov">
