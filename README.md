@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-     <!-- пам пам пам -->
+     <!-- @mikarmk -->
      
 
 <div id="header" align="center">
