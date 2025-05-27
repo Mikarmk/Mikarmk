@@ -21,7 +21,6 @@
 
   Сайт портфолио - [тык](https://mikarmk.github.io/mikdev.github.io/)
 
-
   <img src="https://komarev.com/ghpvc/?username=mikarmk&style=flat-square&color=blue" alt=""/>
 
 
